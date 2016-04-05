@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[hannah says hello photography]]></title>
         <description><![CDATA[hannah says hello photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hannah-says-hello-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 17:58:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 18:01:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hannah-says-hello-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined794d6e72-b793-442d-aa2d-268e86496115/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c9bdd60-e7a7-46a5-b9bb-c885e700fe32.jpg">]]></description>
+            <link>https://thegrid.ai/hannah-says-hello-photography/642b56a7-59f0-4037-a19d-bcaea360e61c/index.html</link>
+            <guid isPermaLink="false">642b56a7-59f0-4037-a19d-bcaea360e61c</guid>
+            <pubDate>Tue, 05 Apr 2016 18:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>based in colorado.frequently traveling.twenty-something.chasing the light.</p>]]></description>
+            <link>https://thegrid.ai/hannah-says-hello-photography/794d6e72-b793-442d-aa2d-268e86496115/index.html</link>
             <guid isPermaLink="false">794d6e72-b793-442d-aa2d-268e86496115</guid>
             <pubDate>Tue, 05 Apr 2016 17:58:45 GMT</pubDate>
         </item>
